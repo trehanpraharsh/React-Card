@@ -1,3 +1,7 @@
+# React-Card
+
+This is just a basic React App, which uses basic React concepts to make a card containing image, a small bio section and the skills.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
